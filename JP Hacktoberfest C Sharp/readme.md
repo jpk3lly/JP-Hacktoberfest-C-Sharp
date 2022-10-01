@@ -2,7 +2,7 @@
 
 <h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        Make sure you've registered and click the above link to find out more about what's happenining in the month of October.
+        Click here to make sure you've registered and find out more about what's happenining in the month of October.
     </a>
 </h3>
 
