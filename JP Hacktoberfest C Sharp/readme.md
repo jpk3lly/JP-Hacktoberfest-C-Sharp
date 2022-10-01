@@ -2,7 +2,13 @@
 
 <h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        Click here to make sure you've registered and find out more about what's happenining in the month of October.
+        Click here to find out more about what's happenining in the month of October.
+    </a>
+</h3>
+
+<h3 align="center">
+    <a href="https://hacktoberfest.com/">
+        You can track your progress towards your Hacktoberfest swag and find out more about what's happenining in the month of October here.
     </a>
 </h3>
 
