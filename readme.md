@@ -10,6 +10,8 @@
 
 Feel free to contribute for a bit of hands on learning of C#.
 
+I have initially found an existing script for a game of Boggle. The intention is to refactor the code into separate classes and improve the functionallity and maybe put a web frontend on. Feel free to add other games and join in the learning. 
+
 ## Steps To Contribute to this Repo
 
     1. Fork this repo
