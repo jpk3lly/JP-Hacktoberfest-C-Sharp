@@ -8,17 +8,17 @@
 
 ## About this Repo :
 
-Feel free to contribute for a bit of hands on learning of C#.
+Feel free to contribute for a bit of hands on learning of C#, HTML, CSS or JavaScript.
 
 I have initially found an existing script for a game of Boggle. The intention is to refactor the code into separate classes and improve the functionallity and maybe put a web frontend on. Feel free to add other games and join in the learning. 
 
 ## Steps To Contribute to this Repo
 
-    1. Fork this repo
-    2. Star this repo
-    3. Add a file
+    1. Star this repo
+    2. Fork this repo
+    3. Add a file/make amends to an existing file in your fork.
     4. commit the code
-    5. Make pull request
+    5. Make a pull request
 
 ***
 <h2 align="center">
