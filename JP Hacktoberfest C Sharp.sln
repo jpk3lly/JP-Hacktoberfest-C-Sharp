@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JP Hacktoberfest C Sharp", "JP Hacktoberfest C Sharp\JP Hacktoberfest C Sharp.csproj", "{29BC9303-CC97-408A-BBAA-167C3B87EACE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JP Hacktoberfest C Sharp", "JP Hacktoberfest C Sharp\JP Hacktoberfest C Sharp.csproj", "{29BC9303-CC97-408A-BBAA-167C3B87EACE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JP Hactoberfest React Site", "JP Hactoberfest React Site\JP Hactoberfest React Site.csproj", "{38466058-053B-4F83-AA48-9E369DFC3984}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{29BC9303-CC97-408A-BBAA-167C3B87EACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29BC9303-CC97-408A-BBAA-167C3B87EACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29BC9303-CC97-408A-BBAA-167C3B87EACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38466058-053B-4F83-AA48-9E369DFC3984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38466058-053B-4F83-AA48-9E369DFC3984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38466058-053B-4F83-AA48-9E369DFC3984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38466058-053B-4F83-AA48-9E369DFC3984}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
