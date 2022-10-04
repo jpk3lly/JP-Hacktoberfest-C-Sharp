@@ -21,7 +21,7 @@ namespace JP_Hacktoberfest_C_Sharp
                     retVal.InsertRange(retVal.Count, Combinations.CombinationsHelper(matrix, visited, new StringBuilder(), i, j, new List<StringBuilder>()));
                 }
             }
-            ValidStrings.PrintList(retVal);
+            //ValidStrings.PrintList(retVal);
             return retVal;
         }
     }

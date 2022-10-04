@@ -27,8 +27,6 @@ namespace JP_Hacktoberfest_C_Sharp
                     board[j][k] = GenerateRandomChar().ToString();
                 }
             }
-
-            Console.WriteLine(String.Format("Created Board of Size {0}x{0}", board.Length));
             return board;
         }
 
