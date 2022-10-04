@@ -29,6 +29,7 @@ namespace JP_Hacktoberfest_C_Sharp
                 if ((input.StartsWith("V")) ||
                     (input.StartsWith("U")) ||
                     (input.StartsWith("C")) ||
+                    (input.StartsWith("A")) ||
                     (input.StartsWith("D")) ||
                     (input.StartsWith("Q")) ||
                     (input.StartsWith("F")) ||
