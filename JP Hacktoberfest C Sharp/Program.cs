@@ -11,6 +11,9 @@
         {
             string[][] testInput = NewBoggleBoard.CreateNewBoard();
             List<StringBuilder> list = CalculateAnswers.GetAllPossibleCombinations(testInput);
+            UserAnswer answer = new UserAnswer();
+            answer.UserInput();
+            
         }    
     }
 }
