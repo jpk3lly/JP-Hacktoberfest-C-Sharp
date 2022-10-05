@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JP Hacktoberfest C Sharp", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JP Hactoberfest React Site", "JP Hactoberfest React Site\JP Hactoberfest React Site.csproj", "{38466058-053B-4F83-AA48-9E369DFC3984}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JP Hacktoberfest Web", "JP Hacktoberfest Web\JP Hacktoberfest Web.csproj", "{AEC75B59-3799-482E-8842-3844EA3BB054}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,9 +20,12 @@ Global
 		{29BC9303-CC97-408A-BBAA-167C3B87EACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29BC9303-CC97-408A-BBAA-167C3B87EACE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{38466058-053B-4F83-AA48-9E369DFC3984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{38466058-053B-4F83-AA48-9E369DFC3984}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38466058-053B-4F83-AA48-9E369DFC3984}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38466058-053B-4F83-AA48-9E369DFC3984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC75B59-3799-482E-8842-3844EA3BB054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC75B59-3799-482E-8842-3844EA3BB054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC75B59-3799-482E-8842-3844EA3BB054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC75B59-3799-482E-8842-3844EA3BB054}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
